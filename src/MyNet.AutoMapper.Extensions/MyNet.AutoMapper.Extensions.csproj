@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>A versatile class library designed to extend and enhance the functionality of AutoMapper, a popular object-to-object mapping library for .NET applications.</Description>
+    <PackageTags>My;Utilities;Mapping</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MyNet.Utilities" Version="1.0.0" />
+  </ItemGroup>
+</Project>

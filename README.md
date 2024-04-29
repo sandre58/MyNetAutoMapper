@@ -70,4 +70,4 @@ My .NET AutoMapper is provided as-is under the MIT license. For more information
 [framework-shield]: https://img.shields.io/badge/.NET-8.0-purple
 [framework-url]: https://github.com/sandre58/MyNetAutoMapper/tree/main/src/MyNet.AutoMapper.Extensions
 [version-shield]: https://img.shields.io/nuget/v/MyNet.AutoMapper.Extensions
-[version-url]: https://github.com/sandre58/MyNetAutoMapper/pkgs/nuget/MyNet.AutoMapper.Extensions
+[version-url]: https://www.nuget.org/packages/MyNet.AutoMapper.Extensions
